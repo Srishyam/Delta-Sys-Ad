@@ -1,0 +1,4 @@
+﻿srishyam@srishyam-Lenovo-Z40-70:~$ mkdir dir1
+srishyam@srishyam-Lenovo-Z40-70:~$ cd dir1
+srishyam@srishyam-Lenovo-Z40-70:~/dir1$ mkdir -p {1..100}
+srishyam@srishyam-Lenovo-Z40-70:~/dir1$ touch {1..100}/{1.txt .. 100.txt}
